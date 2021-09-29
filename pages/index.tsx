@@ -16,7 +16,7 @@ export default function Home() {
           <ListItem>Become Genuinely Interested In Other People</ListItem>
           <ListItem>Smile</ListItem>
           <ListItem>Remember That A Person's Name Is To That Person The Sweetest And Most Important Sound In Any Language</ListItem>
-          <ListItem>Be A Good ListItemstener. Encourage Others To Talk About Themselves</ListItem>
+          <ListItem>Be A Good Listener. Encourage Others To Talk About Themselves</ListItem>
           <ListItem>Talk In Terms Of The Other Person's Interests</ListItem>
           <ListItem>Make The Other Person Feel Important - And Do It Sincerely</ListItem>
           <ListItem>The Only Way To Get The Best Of An Argument Is To Avoid It</ListItem>
@@ -36,8 +36,8 @@ export default function Home() {
           <ListItem>Talk About Your Own Mistakes Before Criticizing The Other Person</ListItem>
           <ListItem>Ask Questions Instead Of Giving Direct Orders</ListItem>
           <ListItem>Let The Other Person Save Face</ListItem>
-          <ListItem>Praise The SListItemghtest Improvement And Praise Every Improvement. Be "Hearty In Your Approbation And Lavish In Your Praise".</ListItem>
-          <ListItem>Give The Other Person A Fine Reputation To ListItemve Up To</ListItem>
+          <ListItem>Praise The Slightest Improvement And Praise Every Improvement. Be "Hearty In Your Approbation And Lavish In Your Praise".</ListItem>
+          <ListItem>Give The Other Person A Fine Reputation To Live Up To</ListItem>
           <ListItem>Use Encouragement. Make The Fault Seem Easy To Correct</ListItem>
           <ListItem>Make The Other Person Happy About Doing The Thing You Suggest</ListItem>
         </ol>
