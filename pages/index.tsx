@@ -7,8 +7,8 @@ export default function Home() {
       <Head>
         <title>{title}</title>
       </Head>
-      <div className="p-16 lg:p-20 bg-gray-900">
-        <h1 className="text-green-600 text-5xl mb-16 font-bold">{title}</h1>
+      <div className="p-6 lg:p-20 bg-gray-900">
+        <h1 className="text-green-600 text-2xl lg:text-5xl lg:mb-16 font-bold">{title}</h1>
         <ListHeader>Fundamental Techniques in Handling People</ListHeader>
         <List>
           <ListItem>Don't criticize, condemn or complain</ListItem>
@@ -68,9 +68,9 @@ function ListItem({ children }: any) {
 }
 
 function ListHeader({ children }: any) {
-  return <h3 className="text-green-600 text-2xl font-bold mb-6 mt-10">{children}</h3>;
+  return <h3 className="text-green-600 text-xl lg:text-2xl font-bold mb-6 mt-10">{children}</h3>;
 }
 
 function List({ children }: any) {
-  return <ol className="text-white text-xl list-decimal list-inside">{children}</ol>;
+  return <ol className="text-white text-lg lg:text-xl list-decimal list-inside">{children}</ol>;
 }
