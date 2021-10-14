@@ -11,45 +11,45 @@ export default function Home() {
         <h1 className="text-green-600 text-5xl mb-16 font-bold">{title}</h1>
         <ListHeader>Fundamental Techniques in Handling People</ListHeader>
         <List>
-          <ListItem>Don't Criticize, Condemn or Complain</ListItem>
-          <ListItem>Arouse In The Other Person An Eager Want</ListItem>
-          <ListItem>Give Honest, Sincere, Appreciation</ListItem>
+          <ListItem>Don't criticize, condemn or complain</ListItem>
+          <ListItem>Arouse in the other person an eager want</ListItem>
+          <ListItem>Give honest, sincere, appreciation</ListItem>
         </List>
         <ListHeader>Six Ways to Make People Like You</ListHeader>
         <List>
-          <ListItem>Become Genuinely Interested In Other People</ListItem>
+          <ListItem>Become genuinely interested in other people</ListItem>
           <ListItem>Smile</ListItem>
-          <ListItem>Remember That A Person's Name Is To That Person The Sweetest And Most Important Sound In Any Language</ListItem>
-          <ListItem>Be A Good Listener. Encourage Others To Talk About Themselves</ListItem>
-          <ListItem>Talk In Terms Of The Other Person's Interests</ListItem>
-          <ListItem>Make The Other Person Feel Important - And Do It Sincerely</ListItem>
+          <ListItem>Remember that a person's name is to that person the sweetest and most important sound in any language</ListItem>
+          <ListItem>Be a good listener. encourage others to talk about themselves</ListItem>
+          <ListItem>Talk in terms of the other person's interests</ListItem>
+          <ListItem>Make the other person feel important - and do it sincerely</ListItem>
         </List>
         <ListHeader>Twelve Ways to Win People to Your Way of Thinking</ListHeader>
         <List>
-          <ListItem>The Only Way To Get The Best Of An Argument Is To Avoid It</ListItem>
-          <ListItem>Show Respect For The Other Person's Opinion. Never Say, "You're Wrong."</ListItem>
-          <ListItem>If You Are Wrong Admit It Quickly And Emphatically</ListItem>
-          <ListItem>Begin In A Friendly Manner</ListItem>
-          <ListItem>Get The Other Person Saying "Yes, Yes"</ListItem>
-          <ListItem>Let The Other Person Do A Great Deal Of The Talking</ListItem>
-          <ListItem>Let The Other Person Feel That The Idea Is His Or Hers</ListItem>
-          <ListItem>Try Honestly To See Things From The Other Person's Point Of View</ListItem>
-          <ListItem>Be Sympathetic With The Other Person's Ideas And Desires</ListItem>
-          <ListItem>Appeal To The Nobler Motives</ListItem>
-          <ListItem>Dramatize Your Ideas</ListItem>
-          <ListItem>Throw Down A Challenge</ListItem>
+          <ListItem>The only way to get the best of an argument is to avoid it</ListItem>
+          <ListItem>Show respect for the other person's opinion. never say, "you're wrong."</ListItem>
+          <ListItem>If you are wrong admit it quickly and emphatically</ListItem>
+          <ListItem>Begin in a friendly manner</ListItem>
+          <ListItem>Get the other person saying "yes, yes"</ListItem>
+          <ListItem>Let the other person do a great deal of the talking</ListItem>
+          <ListItem>Let the other person feel that the idea is his or hers</ListItem>
+          <ListItem>Try honestly to see things from the other person's point of view</ListItem>
+          <ListItem>Be sympathetic with the other person's ideas and desires</ListItem>
+          <ListItem>Appeal to the nobler motives</ListItem>
+          <ListItem>Dramatize your ideas</ListItem>
+          <ListItem>Throw down a challenge</ListItem>
         </List>
         <ListHeader>Be a Leader: How to Change People Without Giving Offense or Arousing Resentment</ListHeader>
         <List>
-          <ListItem>Begin With Praise And Honest Appreciation</ListItem>
-          <ListItem>Call Attention To People's Mistakes Indirectly</ListItem>
-          <ListItem>Talk About Your Own Mistakes Before Criticizing The Other Person</ListItem>
-          <ListItem>Ask Questions Instead Of Giving Direct Orders</ListItem>
-          <ListItem>Let The Other Person Save Face</ListItem>
-          <ListItem>Praise The Slightest Improvement And Praise Every Improvement. Be "Hearty In Your Approbation And Lavish In Your Praise".</ListItem>
-          <ListItem>Give The Other Person A Fine Reputation To Live Up To</ListItem>
-          <ListItem>Use Encouragement. Make The Fault Seem Easy To Correct</ListItem>
-          <ListItem>Make The Other Person Happy About Doing The Thing You Suggest</ListItem>
+          <ListItem>Begin with praise and honest appreciation</ListItem>
+          <ListItem>Call attention to people's mistakes indirectly</ListItem>
+          <ListItem>Talk about your own mistakes before criticizing the other person</ListItem>
+          <ListItem>Ask questions instead of giving direct orders</ListItem>
+          <ListItem>Let the other person save face</ListItem>
+          <ListItem>Praise the slightest improvement and praise every improvement. be "hearty in your approbation and lavish in your praise".</ListItem>
+          <ListItem>Give the other person a fine reputation to live up to</ListItem>
+          <ListItem>Use encouragement. make the fault seem easy to correct</ListItem>
+          <ListItem>Make the other person happy about doing the thing you suggest</ListItem>
         </List>
 
         <footer className="text-white mt-20">
